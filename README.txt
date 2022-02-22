@@ -1,4 +1,4 @@
-Tunahan Özmen - 171301071
+Tunahan Özmen - RESTful API for F1 Stats
 
 Kurulum ve Çalıştırma:
 1- <main.py>, <Handler.py>, <POST_funcs.py>, <GET_funcs.py> dosyaları aynı klasörde bulunmalıdır.
